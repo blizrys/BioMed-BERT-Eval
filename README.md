@@ -4,7 +4,7 @@ Author : Jirarote Jirasirikul (https://www.linkedin.com/in/jirarotej/)<br>
 Supervisors : Ehsan Sharegi, Reza Haffari<br>
 
 Link to:
-- <a href="https://docs.google.com/document/d/1dtZtCuwgfG8gmhZ2kE5iDO6wDpjctFzoXh9KqIi_b6E/edit?usp=sharing">Full paper</a>
+- <a href="https://drive.google.com/file/d/1SO6UG4-yudsEOm7-sRdDchyRMa8yit3y/view?usp=sharing">Full paper</a>
 - <a href="https://drive.google.com/file/d/1tfIVghY_alwU3Kp9kNNtWzou8pPfKVzq/view?usp=sharing">Poster</a>
 
 ## Abstract
